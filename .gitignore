@@ -16,9 +16,9 @@
 
 .idea
 
-# Exclude all config files, except for the config.template.json
+# Exclude all config files, except for the config.sample.json
 config*.json
-!config.template.json
+!config.sample.json
 
 # Exclude binary without extension
 mockBot
